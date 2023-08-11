@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Greetings! I'm Andrey 🧑🏼‍💻</h1>
+<h3 align="center"> Frontend developer | React </h3>
 
-<!--
-**1037cs/1037cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div margin="20px"> 💻 I develop fullstack REST-API apps, but I prefer to develop a front-end. I try to make fault-tolerant and responsive systems with simple minimalist design. </div>
+<br/>
+<div><b>🪄 Stack:</b> React, TypeScript</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+📚 I always try to learn something new, now I'm studying <a href="https://nextjs.org/">NextJS</a> and <a href="https://jestjs.io/ru/">Jest</a>
+<br/>
+🤝 I am open to job offers, you can contact me using the links in my profile
