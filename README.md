@@ -1,12 +1,30 @@
-<h1 align="center"> Greetings! I'm Andrey 🧑🏼‍💻</h1>
-<h3 align="center"> Frontend developer | React </h3>
+# Greetings! I'm Andrey 🧑🏼‍💻 #
 
-<div margin="20px"> 💻 I develop fullstack REST-API apps, but I prefer to develop a front-end. I try to make fault-tolerant and responsive systems with simple minimalist design. </div>
-<br/>
-<div><b>🪄 Stack:</b> React, TypeScript</div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://www.codewars.com/users/1037cs/badges/small"/>
 
-<br/>
-📚 I always try to learn something new, now I'm studying <a href="https://nextjs.org/">NextJS</a> and <a href="https://jestjs.io/ru/">Jest</a>
-<br/>
-🤝 I am open to job offers, you can contact me using the links in my profile
+## Frontend developer ##
+
+I develop fullstack REST-API apps, but I prefer to develop a front-end. I try to make fault-tolerant and responsive systems with simple minimalist design.
+
+
+### Languages and Tools:
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />          
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+I always try to learn something new, now I'm studying: 
+
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
+###  I am open for job offers, contact me: ###
+[<img width="30px" height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/lleucate)
+[<img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />](https://vk.com/lleucate)
