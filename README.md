@@ -10,6 +10,7 @@ I develop fullstack REST-API apps, but I prefer to develop a front-end. I try to
 ### Languages and Tools:
 <img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
@@ -22,7 +23,6 @@ I develop fullstack REST-API apps, but I prefer to develop a front-end. I try to
 
 I always try to learn something new, now I'm studying: 
 
-<img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
 ###  I am open for job offers, contact me: ###
