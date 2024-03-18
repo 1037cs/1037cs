@@ -25,6 +25,5 @@ I always try to learn something new, now I'm studying:
 
 <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
-###  I am open for job offers, contact me: ###
+### Contacts: ###
 [<img width="30px" height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/lleucate)
-[<img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />](https://vk.com/lleucate)
