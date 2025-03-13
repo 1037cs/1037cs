@@ -21,9 +21,5 @@ I develop fullstack REST-API apps, but I prefer to develop a front-end. I try to
 <img width="30px" height="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-I always try to learn something new, now I'm studying: 
-
-<img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-
 ### Contacts: ###
 [<img width="30px" height="30px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/lleucate)
